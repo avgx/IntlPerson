@@ -1,0 +1,19 @@
+{
+  "PersonList": [
+    {
+      "Id": "00000000-0000-4000-8000-000000000020",
+      "ImageId": "img-1",
+      "Name": "User",
+      "Surname": "Test",
+      "Patronymic": "",
+      "Department": "Dept",
+      "Comment": "",
+      "Timestamp": "2024-01-15T10:00:00.000+00:00"
+    }
+  ],
+  "Total": 1,
+  "Status": "OK",
+  "Responce": {
+    "Status": "OK"
+  }
+}
